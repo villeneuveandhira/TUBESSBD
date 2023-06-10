@@ -6,6 +6,13 @@ Nama Anggota Kelompok 7:<br />
 - Najma Qalbi Dwiharani (2102843)<br />
 - Villeneuve Andhira Suwandhi (22108067)<br />
 
+# Presentation
+
+
+https://github.com/villeneuveandhira/TUBESSBD/assets/101118033/dd315671-1455-40e2-9fc5-311045ddb35a
+
+
+
 # Alur Program () {}
 Query - Proses Pendaftaran (login sebagai mahasiswa)
 1. Login
