@@ -35,6 +35,9 @@ ERD<br />
 LOGIN<br />
 ![image](https://github.com/villeneuveandhira/TUBESSBD/assets/101118033/28df2ab0-0090-4625-853c-0dd78953c52a)
 
+LOGIN MAHASISWA TERDAFTAR
+![image](https://github.com/villeneuveandhira/TUBESSBD/assets/101118033/a3ab7736-32aa-4421-806e-57dbfa56143a)
+
 DASHBOARD<br />
 ![image](https://github.com/villeneuveandhira/TUBESSBD/assets/101118033/2642e58e-9d9c-4ae8-884f-6bc04c4d5161)
 
