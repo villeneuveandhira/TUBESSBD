@@ -6,6 +6,28 @@ Nama Anggota Kelompok 7:<br />
 - Najma Qalbi Dwiharani (2102843)<br />
 - Villeneuve Andhira Suwandhi (22108067)<br />
 
+# Alur Program () {}
+Query - Proses Pendaftaran (login sebagai mahasiswa)
+1. Login
+2. Halaman Daftar MBKM
+3. Proses Daftar
+4. Halaman Sedang Mendaftar
+5. Proses Update Status Ditolak
+6. Proses Update Status Diterima
+7. Halaman Memilih Pembimbing
+8. Proses Memilih Pembimbing
+9. Proses Update Status Selesai
+10. Halaman Konversi Mata Kuliah
+11. Proses Konversi
+
+Query - Halaman Admin
+1. Dashboard
+2. Status (dengan filter)
+3. Mahasiswa
+4. Program
+5. Pembimbing
+6. Reset Semester
+
 # Documentation () {}
 ERD<br />
 ![image](https://github.com/villeneuveandhira/TUBESSBD/assets/101118033/d4afe483-d9a9-4baa-b1f8-969836e994f8)
